@@ -3,7 +3,7 @@
 > A Bayesian Machine Learning framework for phishing detection that combines **Bayesian Logistic Regression**, **uncertainty quantification**, and a **Human-in-the-Loop (HITL)** decision strategy.
 
 <p align="center">
-  <img src="[images/framework_hitl.png](https://raw.githubusercontent.com/gabrielcardoso-estatistico/BLR-HITL/refs/heads/main/evolucao.png)" width="900">
+  <img src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/BLR-HITL/refs/heads/main/evolucao.png" width="900">
 </p>
 
 ---
