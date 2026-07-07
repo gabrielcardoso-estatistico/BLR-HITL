@@ -28,10 +28,6 @@ The approach provides:
 
 # Framework
 
-<p align="center">
-  <img src="images/framework_hitl.png" width="900">
-</p>
-
 The workflow consists of four stages:
 
 1. Feature extraction
