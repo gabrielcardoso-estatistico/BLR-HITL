@@ -67,9 +67,6 @@ This probabilistic formulation enables uncertainty-aware decision making.
 
 Rather than forcing the classifier to decide every sample, predictions are divided into three regions.
 
-<p align="center">
-  <img src="images/hitl_strategy.png" width="800">
-</p>
 
 | Prediction Probability | Decision |
 |------------------------|----------|
@@ -86,7 +83,7 @@ The uncertainty interval can be adjusted depending on the desired balance betwee
 ## Model Calibration
 
 <p align="center">
-  <img src="images/calibration_curve.png" width="700">
+  <img src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/BLR-HITL/refs/heads/main/metricas.png" width="700">
 </p>
 
 The Bayesian model achieves excellent calibration.
@@ -107,7 +104,7 @@ When uncertain predictions are referred to a human analyst:
 - Overall system reliability improves
 
 <p align="center">
-  <img src="images/results_table.png" width="900">
+  <img src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/BLR-HITL/refs/heads/main/evolucao2.png" width="900">
 </p>
 
 ---
